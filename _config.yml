@@ -1,0 +1,19 @@
+
+# Site settings
+title: Data4Development
+email: rolf@data4development.nl
+description: Home of the Data4Development developer pages
+brand: Data4Development
+brand_url: /
+github: https://github.com/data4development/dataworkbench-jekyll-theme
+
+defaults:
+  -
+    values:
+      layout: "default"
+
+remote_theme: data4development/dataworkbench-jekyll-theme
+
+# Uncomment the next line to use jekyll on your local machine
+# (see documentation for alternatives, more info)
+# theme: dataworkbench-jekyll-theme
