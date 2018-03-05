@@ -5,7 +5,7 @@ email: rolf@data4development.nl
 description: Home of the Data4Development developer pages
 brand: Data4Development
 brand_url: /
-github: https://github.com/data4development/dataworkbench-jekyll-theme
+github: https://github.com/data4development/data4development.github.io
 
 defaults:
   -
