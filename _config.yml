@@ -3,8 +3,7 @@
 title: Data4Development
 email: rolf@data4development.nl
 description: Home of the Data4Development developer pages
-brand: Data4Development
-brand_url: /
+brand: DataWorkbench
 github: https://github.com/data4development/data4development.github.io
 
 defaults:
