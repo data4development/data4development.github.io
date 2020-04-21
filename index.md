@@ -1,6 +1,8 @@
 ---
 title: Welcome
 order: 1
+redirect_from:
+  - /dataworkbench/
 ---
 
 The DataWorkbench developer documentation provides technical information about our products.
