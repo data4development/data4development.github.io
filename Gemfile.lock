@@ -17,8 +17,6 @@ GEM
     commonmarker (0.17.13)
       ruby-enum (~> 0.5)
     concurrent-ruby (1.1.6)
-    dataworkbench-jekyll-theme (0.3.4)
-      jekyll (~> 3.6)
     dnsruby (1.61.3)
       addressable (~> 2.5)
     em-websocket (0.5.1)
@@ -244,8 +242,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  dataworkbench-jekyll-theme
   github-pages
+  jekyll-redirect-from
 
 BUNDLED WITH
    1.17.3
